@@ -6,6 +6,7 @@ export default function Home() {
       <Head>
         <title>Swingby Docs</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta http-equiv="Refresh" content="0; URL=https://skybridge-docs.swingby.network/" />
       </Head>
     </div>
   )
